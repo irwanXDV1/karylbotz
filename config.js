@@ -61,7 +61,7 @@ global.psaweria = '_' //Link Saweriamu Kalo Nggada Ketik - aja
 /*============== NOMOR ==============*/
 global.nomorbot = '+62895324513343' //Nomor Bot
 global.nomorown = '+6288268184147' //Nomor Owner
-global.namebot = 'shikimori chan' //Nama Bot
+global.namebot = 'shikimori-chan' //Nama Bot
 global.nameown = 'IRWAN' // Nama Owner
 
 
@@ -90,18 +90,18 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEYMU',
+  'https://api.xteam.xyz': 'ebb6251cc00f9c63',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'Apikeymu',
+  'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://violetics.pw': 'beta'
 }
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 karylbotz  」' //Main Watermark
-global.wm2 = '©ciel'
-global.wm3 = '⫹⫺ karybotz'
+global.wm = '                「 shikimori-chan  」' //Main Watermark
+global.wm2 = '©IRWAN'
+global.wm3 = '⫹⫺ shikimori-chan'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -330,7 +330,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-3617-8354'
+global.phn = '+62 882-6818-4147'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
