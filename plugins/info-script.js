@@ -22,7 +22,7 @@ let buttonMessage= {
 'mediaUrl':sig,
 'mediaType':2,
 'previewType':'pdf',
-'title':'𝙍𝙪𝙡𝙡𝘽𝙊𝙏~',
+'title':'shikimori-chan',
 'body':titlebot,
 'thumbnail':await(await fetch(kled)).buffer(),
 'sourceUrl':'https://www.instagram.com/khoirul36_'}},
